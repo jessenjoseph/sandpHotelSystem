@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32328.378
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SandPHotelBookingSystem", "SandPHotelBookingSystem\SandPHotelBookingSystem.csproj", "{ED3DD6C1-96FA-4D86-8104-54495EC378CA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SandPHotelBookingSystemTests", "SandPHotelBookingSystemTests\SandPHotelBookingSystemTests.csproj", "{1BFF412E-1086-4E9C-9D8D-6AD7743704AD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ED3DD6C1-96FA-4D86-8104-54495EC378CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ED3DD6C1-96FA-4D86-8104-54495EC378CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ED3DD6C1-96FA-4D86-8104-54495EC378CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ED3DD6C1-96FA-4D86-8104-54495EC378CA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1BFF412E-1086-4E9C-9D8D-6AD7743704AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1BFF412E-1086-4E9C-9D8D-6AD7743704AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1BFF412E-1086-4E9C-9D8D-6AD7743704AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1BFF412E-1086-4E9C-9D8D-6AD7743704AD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {71617122-5F48-4A1D-8B0B-D15DC9F99D96}
+	EndGlobalSection
+EndGlobal
